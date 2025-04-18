@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN"
+   "http://www.springframework.group/dtd/spring-beans.dtd">
+
+<beans>
+
+	<bean id="group:artifact:hello-visitor" class="group.artifact.visitors.MyFirstPlugin"/>
+
+
+</beans>
